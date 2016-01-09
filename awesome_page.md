@@ -20,7 +20,5 @@ Make something bold, italic, some sort of code block and a link (Links to an ext
 
 ![GPS PhotoShoot](GPS_PhotoShoot.png)
 
-![GPS PhotoShoot](GPS_PhotoShoot.png)
-
 
 
